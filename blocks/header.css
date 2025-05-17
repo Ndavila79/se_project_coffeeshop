@@ -22,6 +22,7 @@
   font-family: "Noto Serif", "Times New Roman", "serif";
   font-style: italic;
   color: #3f96f3;
+  font-weight: 400;
 }
 
 .header__description {
@@ -48,7 +49,6 @@
   justify-content: space-between;
   width: 100%;
   align-items: flex-end;
-  margin-bottom: 40px;
 }
 
 .header__paragraph {
@@ -61,7 +61,7 @@
   margin: 0;
 }
 
-.header__paragraph-2 {
+.header__hours {
   font-family: "Inter";
   font-style: normal;
   font-weight: 500;
